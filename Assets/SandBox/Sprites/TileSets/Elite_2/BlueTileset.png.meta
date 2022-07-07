@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 71aae521c47b68a45bb00a5a2d9e73f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7823732169696719773
+    second: BlueTileset 1_0
+  - first:
+      213: -6331481306161597925
+    second: BlueTileset 1_1
+  - first:
+      213: -985383154798360739
+    second: BlueTileset 1_2
+  - first:
+      213: 3618568767612965251
+    second: BlueTileset 1_3
+  - first:
+      213: -1532900553397726500
+    second: BlueTileset 1_4
+  - first:
+      213: 441842659610191451
+    second: BlueTileset 1_5
+  - first:
+      213: -4628631169275394811
+    second: BlueTileset 1_6
+  - first:
+      213: -5313612354039354196
+    second: BlueTileset 1_7
+  - first:
+      213: -2561947939843507813
+    second: BlueTileset 1_8
+  - first:
+      213: 5155785769329826820
+    second: BlueTileset 1_9
+  - first:
+      213: 2432906161095114819
+    second: BlueTileset 1_10
+  - first:
+      213: 7645762158445136887
+    second: BlueTileset 1_11
+  - first:
+      213: 6371953083411265570
+    second: BlueTileset 1_12
+  - first:
+      213: -697840936967682004
+    second: BlueTileset 1_13
+  - first:
+      213: 5401039725336373696
+    second: BlueTileset 1_14
+  - first:
+      213: 6334413443798789958
+    second: BlueTileset 1_15
+  - first:
+      213: -6212861893750347994
+    second: BlueTileset 1_16
+  - first:
+      213: 7133620436051170486
+    second: BlueTileset 1_17
+  - first:
+      213: 3877046418224347178
+    second: BlueTileset 1_18
+  - first:
+      213: 7708723723687930875
+    second: BlueTileset 1_19
+  - first:
+      213: 4051387066813595859
+    second: BlueTileset 1_20
+  - first:
+      213: 6233760455416432157
+    second: BlueTileset 1_21
+  - first:
+      213: -4470141953021388949
+    second: BlueTileset 1_22
+  - first:
+      213: 9098293319263019180
+    second: BlueTileset 1_23
+  - first:
+      213: -3249857167420178159
+    second: BlueTileset 1_24
+  - first:
+      213: 8288631723332907870
+    second: BlueTileset 1_25
+  - first:
+      213: 4410621147839894430
+    second: BlueTileset 1_26
+  - first:
+      213: -4583135117265678485
+    second: BlueTileset 1_27
+  - first:
+      213: -5015822125612676463
+    second: BlueTileset 1_28
+  - first:
+      213: 8602840341971484416
+    second: BlueTileset 1_29
+  - first:
+      213: -6710946886917732843
+    second: BlueTileset 1_30
+  - first:
+      213: 3272383304836486419
+    second: BlueTileset 1_31
+  - first:
+      213: -245853574915326807
+    second: BlueTileset 1_32
+  - first:
+      213: 4270412370913626534
+    second: BlueTileset 1_33
+  - first:
+      213: -7442360226342139962
+    second: BlueTileset 1_34
+  - first:
+      213: 7058610349624393716
+    second: BlueTileset 1_35
+  - first:
+      213: 1596895495993990832
+    second: BlueTileset 1_36
+  - first:
+      213: -7505173814046296385
+    second: BlueTileset 1_37
+  - first:
+      213: -7553532778293071720
+    second: BlueTileset 1_38
+  - first:
+      213: -3871786424568622367
+    second: BlueTileset 1_39
+  - first:
+      213: 8149864906515086669
+    second: BlueTileset 1_40
+  - first:
+      213: 9184086948337286116
+    second: BlueTileset 1_41
+  - first:
+      213: 7656582269733099184
+    second: BlueTileset 1_42
+  - first:
+      213: -1048588221506531523
+    second: BlueTileset 1_43
+  - first:
+      213: -5043236022423595795
+    second: BlueTileset 1_44
+  - first:
+      213: 6472637361918705116
+    second: BlueTileset 1_45
+  - first:
+      213: 4982829970145687347
+    second: BlueTileset 1_46
+  - first:
+      213: -3318809823427712609
+    second: BlueTileset 1_47
+  - first:
+      213: -5946425859503144284
+    second: BlueTileset 1_48
+  - first:
+      213: 5858429272551805843
+    second: BlueTileset 1_49
+  - first:
+      213: 602002046213959559
+    second: BlueTileset 1_50
+  - first:
+      213: 8383065631986504614
+    second: BlueTileset 1_51
+  - first:
+      213: 7686526438562857460
+    second: BlueTileset 1_52
+  - first:
+      213: 7462909530943507372
+    second: BlueTileset 1_53
+  - first:
+      213: 1660852471761861348
+    second: BlueTileset 1_54
+  - first:
+      213: -2158914583207789780
+    second: BlueTileset 1_55
+  - first:
+      213: 4741306630936094257
+    second: BlueTileset 1_56
+  - first:
+      213: 7764761692038859180
+    second: BlueTileset 1_57
+  - first:
+      213: 2723639104840182424
+    second: BlueTileset 1_58
+  - first:
+      213: -413131669394185145
+    second: BlueTileset 1_59
+  - first:
+      213: 7890087631263470565
+    second: BlueTileset 1_60
+  - first:
+      213: -2831458928056112650
+    second: BlueTileset 1_61
+  - first:
+      213: -2864758841025004627
+    second: BlueTileset 1_62
+  - first:
+      213: 8925548179389826029
+    second: BlueTileset 1_63
+  - first:
+      213: 5823637727258513859
+    second: BlueTileset 1_64
+  - first:
+      213: -6114341973153293105
+    second: BlueTileset 1_65
+  - first:
+      213: 1044200008344274510
+    second: BlueTileset 1_66
+  - first:
+      213: -708916747014078649
+    second: BlueTileset 1_67
+  - first:
+      213: -976706740702389686
+    second: BlueTileset 1_68
+  - first:
+      213: -1156349147038931339
+    second: BlueTileset 1_69
+  - first:
+      213: -6362603678306674781
+    second: BlueTileset 1_70
+  - first:
+      213: -8661768561854262264
+    second: BlueTileset 1_71
+  - first:
+      213: -3828044540758156442
+    second: BlueTileset_0
+  - first:
+      213: -4584470612761372700
+    second: BlueTileset_1
+  - first:
+      213: -7129027627236911448
+    second: BlueTileset_3
+  - first:
+      213: 8924279475257873488
+    second: BlueTileset_4
+  - first:
+      213: 2045628036143422094
+    second: BlueTileset_5
+  - first:
+      213: 8454586391010398395
+    second: BlueTileset_7
+  - first:
+      213: 9157084423362550850
+    second: BlueTileset_8
+  - first:
+      213: -5254272431375392966
+    second: BlueTileset_9
+  - first:
+      213: -7889337738420555452
+    second: BlueTileset_10
+  - first:
+      213: -4355855831519066538
+    second: BlueTileset_11
+  - first:
+      213: -1397285591540399276
+    second: BlueTileset_12
+  - first:
+      213: 3713055610419314494
+    second: BlueTileset_13
+  - first:
+      213: -5888117812929362368
+    second: BlueTileset_14
+  - first:
+      213: 5952416728045464082
+    second: BlueTileset_15
+  - first:
+      213: 8046671399388144062
+    second: BlueTileset_16
+  - first:
+      213: 8096020343382418459
+    second: BlueTileset_17
+  - first:
+      213: -9155418111395736000
+    second: BlueTileset_18
+  - first:
+      213: -5088150117964129960
+    second: BlueTileset_19
+  - first:
+      213: -2371098612947919322
+    second: BlueTileset_20
+  - first:
+      213: 7378178127862665494
+    second: BlueTileset_22
+  - first:
+      213: 6716504725054552036
+    second: BlueTileset_23
+  - first:
+      213: -6528693904430566213
+    second: BlueTileset_24
+  - first:
+      213: -3752214822723310615
+    second: BlueTileset_25
+  - first:
+      213: 1275556940629454162
+    second: BlueTileset_26
+  - first:
+      213: -4710489244614017570
+    second: BlueTileset_27
+  - first:
+      213: -3092822995373794632
+    second: BlueTileset_28
+  - first:
+      213: 8262283404641918694
+    second: BlueTileset_29
+  - first:
+      213: 3857734762549498551
+    second: BlueTileset_30
+  - first:
+      213: 3022650523355716116
+    second: BlueTileset_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b9cb3a5cd00eac0800000000000000
+      internalID: -3828044540758156442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7142b6440b060c0800000000000000
+      internalID: -4584470612761372700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6199ce42b901d90800000000000000
+      internalID: -7129027627236911448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0541e0f56e869db70800000000000000
+      internalID: 8924279475257873488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a98e45cd7836c10800000000000000
+      internalID: 2045628036143422094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d60f3789b45570800000000000000
+      internalID: 8454586391010398395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c99c844cf741f70800000000000000
+      internalID: 9157084423362550850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fddbedf031517b0800000000000000
+      internalID: -5254272431375392966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441fb5c5021738290800000000000000
+      internalID: -7889337738420555452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6560e751334ec83c0800000000000000
+      internalID: -4355855831519066538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453867a5828db9ce0800000000000000
+      internalID: -1397285591540399276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f7052b76c678330800000000000000
+      internalID: 3713055610419314494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04602b4bb04394ea0800000000000000
+      internalID: -5888117812929362368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a2e361a7b3b9250800000000000000
+      internalID: 5952416728045464082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb163d031058baf60800000000000000
+      internalID: 8046671399388144062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1425a59b97da5070800000000000000
+      internalID: 8096020343382418459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04654143cbb61f080800000000000000
+      internalID: -9155418111395736000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d2e60d624369b0800000000000000
+      internalID: -5088150117964129960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e51d7cf5a281fd0800000000000000
+      internalID: -2371098612947919322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6119fc08aed846660800000000000000
+      internalID: 7378178127862665494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7fb1d3671d53d50800000000000000
+      internalID: 6716504725054552036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb478230c7b6565a0800000000000000
+      internalID: -6528693904430566213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2f92bf747debc0800000000000000
+      internalID: -3752214822723310615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25da0018740b3b110800000000000000
+      internalID: 1275556940629454162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddbb704dfaf0aeb0800000000000000
+      internalID: -4710489244614017570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad5974fd51415d0800000000000000
+      internalID: -3092822995373794632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee59472bf689a270800000000000000
+      internalID: 8262283404641918694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2507fc35d698530800000000000000
+      internalID: 3857734762549498551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTileset_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a14c4e2ac92f920800000000000000
+      internalID: 3022650523355716116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

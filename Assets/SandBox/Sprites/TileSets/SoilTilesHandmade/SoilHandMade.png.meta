@@ -1,0 +1,3324 @@
+fileFormatVersion: 2
+guid: 6699d6b2e97cc724f8ea793eef766a66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3671851715842923965
+    second: SoilHandMade_0
+  - first:
+      213: 6459183966256777308
+    second: SoilHandMade_1
+  - first:
+      213: -5471358589669512235
+    second: SoilHandMade_2
+  - first:
+      213: -4772533297033616130
+    second: SoilHandMade_3
+  - first:
+      213: -91946495092347495
+    second: SoilHandMade_4
+  - first:
+      213: 357729524120014219
+    second: SoilHandMade_5
+  - first:
+      213: -3479780005661301582
+    second: SoilHandMade_6
+  - first:
+      213: 3269243756670309015
+    second: SoilHandMade_7
+  - first:
+      213: -4729622128869268318
+    second: SoilHandMade_8
+  - first:
+      213: 5442043711119755934
+    second: SoilHandMade_9
+  - first:
+      213: -8893402178412617239
+    second: SoilHandMade_10
+  - first:
+      213: 8275715772531714253
+    second: SoilHandMade_11
+  - first:
+      213: -5741205390516739224
+    second: SoilHandMade_12
+  - first:
+      213: -7088242692848532098
+    second: SoilHandMade_13
+  - first:
+      213: 6715956918505727254
+    second: SoilHandMade_14
+  - first:
+      213: 6494993612280219729
+    second: SoilHandMade_15
+  - first:
+      213: 3744116920460865789
+    second: SoilHandMade_16
+  - first:
+      213: -6886952651682108864
+    second: SoilHandMade_17
+  - first:
+      213: 5255646168351818100
+    second: SoilHandMade_18
+  - first:
+      213: 8339897417803967264
+    second: SoilHandMade_19
+  - first:
+      213: -7872134678768687990
+    second: SoilHandMade_20
+  - first:
+      213: -7525490004570598829
+    second: SoilHandMade_21
+  - first:
+      213: 4089954617012686471
+    second: SoilHandMade_22
+  - first:
+      213: 927262893502870255
+    second: SoilHandMade_23
+  - first:
+      213: -6344510083199394079
+    second: SoilHandMade_24
+  - first:
+      213: 2623954450503469658
+    second: SoilHandMade_25
+  - first:
+      213: -3053536672646357466
+    second: SoilHandMade_26
+  - first:
+      213: -2295534061355123526
+    second: SoilHandMade_27
+  - first:
+      213: 6502449477780242660
+    second: SoilHandMade_28
+  - first:
+      213: -5221066803539311767
+    second: SoilHandMade_29
+  - first:
+      213: 3399215386690983427
+    second: SoilHandMade_30
+  - first:
+      213: 5824490126316061528
+    second: SoilHandMade_31
+  - first:
+      213: 6486858356303850347
+    second: SoilHandMade_32
+  - first:
+      213: 7460768496151713282
+    second: SoilHandMade_33
+  - first:
+      213: 8269534318679309425
+    second: SoilHandMade_34
+  - first:
+      213: 5771494557760226046
+    second: SoilHandMade_35
+  - first:
+      213: 6633721622855997611
+    second: SoilHandMade_36
+  - first:
+      213: -8903989495783443124
+    second: SoilHandMade_37
+  - first:
+      213: 2738796143302883320
+    second: SoilHandMade_38
+  - first:
+      213: 7630544042464477830
+    second: SoilHandMade_39
+  - first:
+      213: -1310759654183442610
+    second: SoilHandMade_40
+  - first:
+      213: 7195920282951708959
+    second: SoilHandMade_41
+  - first:
+      213: 5916709566566158610
+    second: SoilHandMade_42
+  - first:
+      213: 3117016738954558867
+    second: SoilHandMade_43
+  - first:
+      213: 6693715994210613689
+    second: SoilHandMade_44
+  - first:
+      213: -3764936688255352985
+    second: SoilHandMade_45
+  - first:
+      213: -8219316894048835751
+    second: SoilHandMade_46
+  - first:
+      213: -8341673951854126548
+    second: SoilHandMade_47
+  - first:
+      213: 2727232736880021287
+    second: SoilHandMade_48
+  - first:
+      213: -5898568213159357458
+    second: SoilHandMade_49
+  - first:
+      213: 915166607513427754
+    second: SoilHandMade_50
+  - first:
+      213: -7015655980626628826
+    second: SoilHandMade_51
+  - first:
+      213: -7993474039737634898
+    second: SoilHandMade_52
+  - first:
+      213: -8532359267587955396
+    second: SoilHandMade_53
+  - first:
+      213: 7002294950842343716
+    second: SoilHandMade_54
+  - first:
+      213: -2205195979595792807
+    second: SoilHandMade_55
+  - first:
+      213: 1293701979500755231
+    second: SoilHandMade_56
+  - first:
+      213: -6051484333874863666
+    second: SoilHandMade_57
+  - first:
+      213: -8313517140396534570
+    second: SoilHandMade_58
+  - first:
+      213: -5221993534154450932
+    second: SoilHandMade_59
+  - first:
+      213: -5622061802158038059
+    second: SoilHandMade_60
+  - first:
+      213: 8611513128233107292
+    second: SoilHandMade_61
+  - first:
+      213: 5386070832291608166
+    second: SoilHandMade_62
+  - first:
+      213: 1954409402217149308
+    second: SoilHandMade_63
+  - first:
+      213: -5436338136416477068
+    second: SoilHandMade_64
+  - first:
+      213: 3334878284036452192
+    second: SoilHandMade_65
+  - first:
+      213: 4178671958657861589
+    second: SoilHandMade_66
+  - first:
+      213: -9176885887256776736
+    second: SoilHandMade_67
+  - first:
+      213: -3603900815531806352
+    second: SoilHandMade_68
+  - first:
+      213: -9190438883775389838
+    second: SoilHandMade_69
+  - first:
+      213: 1267326881433633968
+    second: SoilHandMade_70
+  - first:
+      213: -4664236073425008197
+    second: SoilHandMade_71
+  - first:
+      213: 3726264670203940250
+    second: SoilHandMade_72
+  - first:
+      213: 8034195822139085405
+    second: SoilHandMade_73
+  - first:
+      213: 7958155274738188124
+    second: SoilHandMade_74
+  - first:
+      213: -1574461127292864809
+    second: SoilHandMade_75
+  - first:
+      213: 8698737428803193777
+    second: SoilHandMade_76
+  - first:
+      213: 1431289786135088984
+    second: SoilHandMade_77
+  - first:
+      213: 947055444408364458
+    second: SoilHandMade_78
+  - first:
+      213: 6804620171761878097
+    second: SoilHandMade_79
+  - first:
+      213: 852889239804011869
+    second: SoilHandMade_80
+  - first:
+      213: -7878214634873275767
+    second: SoilHandMade_81
+  - first:
+      213: 6418026148680859013
+    second: SoilHandMade_82
+  - first:
+      213: -7016867932591037713
+    second: SoilHandMade_83
+  - first:
+      213: -7442431681344674728
+    second: SoilHandMade_84
+  - first:
+      213: 9216470319560718732
+    second: SoilHandMade_85
+  - first:
+      213: -7538741263658110043
+    second: SoilHandMade_86
+  - first:
+      213: 8486331146134417308
+    second: SoilHandMade_87
+  - first:
+      213: 5211245115774488810
+    second: SoilHandMade_88
+  - first:
+      213: -5571108283344207808
+    second: SoilHandMade_89
+  - first:
+      213: 979792161113556397
+    second: SoilHandMade_90
+  - first:
+      213: -6842970050227742363
+    second: SoilHandMade_91
+  - first:
+      213: -5641430201038931325
+    second: SoilHandMade_92
+  - first:
+      213: -6268238442516505264
+    second: SoilHandMade_93
+  - first:
+      213: 8043763550660652396
+    second: SoilHandMade_94
+  - first:
+      213: 2933627566393018359
+    second: SoilHandMade_95
+  - first:
+      213: -147921845326403836
+    second: SoilHandMade_96
+  - first:
+      213: -3437737038449398043
+    second: SoilHandMade_97
+  - first:
+      213: -5696828843616152824
+    second: SoilHandMade_98
+  - first:
+      213: 2588943029311986349
+    second: SoilHandMade_99
+  - first:
+      213: -8790640327821213074
+    second: SoilHandMade_100
+  - first:
+      213: -5261689848554312364
+    second: SoilHandMade_101
+  - first:
+      213: -1666229388936152773
+    second: SoilHandMade_102
+  - first:
+      213: -5408676683008050562
+    second: SoilHandMade_103
+  - first:
+      213: -2105647881289173302
+    second: SoilHandMade_104
+  - first:
+      213: 3496613879033701313
+    second: SoilHandMade_105
+  - first:
+      213: -7274361128815625242
+    second: SoilHandMade_106
+  - first:
+      213: -4596826806545315933
+    second: SoilHandMade_107
+  - first:
+      213: -2274385556505574651
+    second: SoilHandMade_108
+  - first:
+      213: -5241241658341961582
+    second: SoilHandMade_109
+  - first:
+      213: 8659720451359021191
+    second: SoilHandMade_110
+  - first:
+      213: 4315828380106709004
+    second: SoilHandMade_111
+  - first:
+      213: -3011658203175045036
+    second: SoilHandMade_112
+  - first:
+      213: -1797491896337769659
+    second: SoilHandMade_113
+  - first:
+      213: -6532169332611921341
+    second: SoilHandMade_114
+  - first:
+      213: -5000124657771462517
+    second: SoilHandMade_115
+  - first:
+      213: 2705085631530070564
+    second: SoilHandMade_116
+  - first:
+      213: 1732678009862671635
+    second: SoilHandMade_117
+  - first:
+      213: 4451915005780304174
+    second: SoilHandMade_118
+  - first:
+      213: 3893441433377315674
+    second: SoilHandMade_119
+  - first:
+      213: 706754350677801403
+    second: SoilHandMade_120
+  - first:
+      213: -3287070951668314194
+    second: SoilHandMade_121
+  - first:
+      213: -4935899674990720521
+    second: SoilHandMade_122
+  - first:
+      213: 6843820251136982987
+    second: SoilHandMade_123
+  - first:
+      213: 4683533260532017245
+    second: SoilHandMade_124
+  - first:
+      213: -8252871672510802923
+    second: SoilHandMade_125
+  - first:
+      213: -7395680941293598515
+    second: SoilHandMade_126
+  - first:
+      213: -9203272889812382090
+    second: SoilHandMade_127
+  - first:
+      213: -771548443782749020
+    second: SoilHandMade_128
+  - first:
+      213: 2539829858176844983
+    second: SoilHandMade_129
+  - first:
+      213: -2896558896661353007
+    second: SoilHandMade_130
+  - first:
+      213: -5541975390302083001
+    second: SoilHandMade_131
+  - first:
+      213: 4579245608022550477
+    second: SoilHandMade_132
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SoilHandMade_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 677
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd9b66ea905f230800000000000000
+      internalID: 3671851715842923965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 677
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5842a75891a3a950800000000000000
+      internalID: 6459183966256777308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db67f7e954d114b0800000000000000
+      internalID: -5471358589669512235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef46697904e84cdb0800000000000000
+      internalID: -4772533297033616130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dadad562759bef0800000000000000
+      internalID: -91946495092347495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc7da5b19e6f400800000000000000
+      internalID: 357729524120014219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b42d02858655bfc0800000000000000
+      internalID: -3479780005661301582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7925f7020efae5d20800000000000000
+      internalID: 3269243756670309015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4abee7bb10d5eb0800000000000000
+      internalID: -4729622128869268318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a017d0ce5068b40800000000000000
+      internalID: 5442043711119755934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1e70786d9449480800000000000000
+      internalID: -8893402178412617239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a9d306af39d270800000000000000
+      internalID: 8275715772531714253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86321b39d142350b0800000000000000
+      internalID: -5741205390516739224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75410373d081ad90800000000000000
+      internalID: -7088242692848532098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6156c561c3fd33d50800000000000000
+      internalID: 6715956918505727254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c466474ad22a50800000000000000
+      internalID: 6494993612280219729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df079918086c5f330800000000000000
+      internalID: 3744116920460865789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aad8b4d01ac60a0800000000000000
+      internalID: -6886952651682108864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c0c1385ecfe840800000000000000
+      internalID: 5255646168351818100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b276bc3844db370800000000000000
+      internalID: 8339897417803967264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8465ffc73f80c290800000000000000
+      internalID: -7872134678768687990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35211dc66b6109790800000000000000
+      internalID: -7525490004570598829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e828efd0072c830800000000000000
+      internalID: 4089954617012686471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b3a450bc4edc00800000000000000
+      internalID: 927262893502870255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1409a1b5c3f7a0800000000000000
+      internalID: -6344510083199394079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a8011aba82a6420800000000000000
+      internalID: 2623954450503469658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e19461398af95d0800000000000000
+      internalID: -3053536672646357466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3e17feef9420e0800000000000000
+      internalID: -2295534061355123526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0040d39575d3a50800000000000000
+      internalID: 6502449477780242660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9638472976b0b87b0800000000000000
+      internalID: -5221066803539311767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30612c662607c2f20800000000000000
+      internalID: 3399215386690983427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c6d019eeb4d050800000000000000
+      internalID: 5824490126316061528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be3c36e43f50a50800000000000000
+      internalID: 6486858356303850347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2065c8c1b69f98760800000000000000
+      internalID: 7460768496151713282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c38c226a943c270800000000000000
+      internalID: 8269534318679309425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2066ab8b7781050800000000000000
+      internalID: 5771494557760226046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_36
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d8254ba6bf0c50800000000000000
+      internalID: 6633721622855997611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_37
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b40c9abcae6480800000000000000
+      internalID: -8903989495783443124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f737c1e498220620800000000000000
+      internalID: 2738796143302883320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828116d06325e960800000000000000
+      internalID: 7630544042464477830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e476b7a0a0f3fcde0800000000000000
+      internalID: -1310759654183442610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117d592f5b0dd360800000000000000
+      internalID: 7195920282951708959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211d452b0006c1250800000000000000
+      internalID: 5916709566566158610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d355c953ed14b20800000000000000
+      internalID: 3117016738954558867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9364e5b3bd4ec50800000000000000
+      internalID: 6693715994210613689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f34be870240cbc0800000000000000
+      internalID: -3764936688255352985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9572ad925de1fed80800000000000000
+      internalID: -8219316894048835751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1b93acbb6c3c80800000000000000
+      internalID: -8341673951854126548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fcc8589b319d520800000000000000
+      internalID: 2727232736880021287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3d93b4673142ea0800000000000000
+      internalID: -5898568213159357458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f13274e2353bc00800000000000000
+      internalID: 915166607513427754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_51
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fa7606e0263ae90800000000000000
+      internalID: -7015655980626628826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa12c46b9711190800000000000000
+      internalID: -7993474039737634898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_53
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c356867d378f69980800000000000000
+      internalID: -8532359267587955396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_54
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421287578262d2160800000000000000
+      internalID: 7002294950842343716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb210b0f19561e0800000000000000
+      internalID: -2205195979595792807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_56
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19bc55981724f110800000000000000
+      internalID: 1293701979500755231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec12c8b7f0fc40ca0800000000000000
+      internalID: -6051484333874863666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d41b8c253470ac80800000000000000
+      internalID: -8313517140396534570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_59
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0856594c80c787b0800000000000000
+      internalID: -5221993534154450932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e311f39c6af1b0800000000000000
+      internalID: -5622061802158038059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_61
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f72fa709d328770800000000000000
+      internalID: 8611513128233107292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_62
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66675d5a2ea2fba40800000000000000
+      internalID: 5386070832291608166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7336d41ff47f1b10800000000000000
+      internalID: 1954409402217149308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470acf3944f3e84b0800000000000000
+      internalID: -5436338136416477068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_65
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f2821612ed74e20800000000000000
+      internalID: 3334878284036452192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d700b0c100adf930800000000000000
+      internalID: 4178671958657861589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_67
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa3c128e625a080800000000000000
+      internalID: -9176885887256776736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0717c747d4f5cfdc0800000000000000
+      internalID: -3603900815531806352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f51aa3780057080800000000000000
+      internalID: -9190438883775389838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4c7268513769110800000000000000
+      internalID: 1267326881433633968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb980fed00e454fb0800000000000000
+      internalID: -4664236073425008197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d089699f956b330800000000000000
+      internalID: 3726264670203940250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52178288823f7f60800000000000000
+      internalID: 8034195822139085405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_74
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fbb2aee0c017e60800000000000000
+      internalID: 7958155274738188124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63c0352f3662ae0800000000000000
+      internalID: -1574461127292864809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_76
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb85368a9f18b870800000000000000
+      internalID: 8698737428803193777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f0a392a76fcd310800000000000000
+      internalID: 1431289786135088984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_78
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad6f82b8ed942d00800000000000000
+      internalID: 947055444408364458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_79
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15403596efdde6e50800000000000000
+      internalID: 6804620171761878097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55654bae3216db00800000000000000
+      internalID: 852889239804011869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_81
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a3818b785faa290800000000000000
+      internalID: -7878214634873275767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d7a4f27c8611950800000000000000
+      internalID: 6418026148680859013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e412dac31f9e90800000000000000
+      internalID: -7016867932591037713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854665841db27b890800000000000000
+      internalID: -7442431681344674728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89f858bcea77ef70800000000000000
+      internalID: 9216470319560718732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3341e33c2016790800000000000000
+      internalID: -7538741263658110043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9feca3073185c570800000000000000
+      internalID: 8486331146134417308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05a3b82df025840800000000000000
+      internalID: 5211245115774488810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040480688827fa2b0800000000000000
+      internalID: -5571108283344207808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c2e487cbe89d00800000000000000
+      internalID: 979792161113556397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d983bef2e801a0800000000000000
+      internalID: -6842970050227742363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38af9e92f1d95b1b0800000000000000
+      internalID: -5641430201038931325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d1b5ad85eb209a0800000000000000
+      internalID: -6268238442516505264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_94
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dec56e45031af60800000000000000
+      internalID: 8043763550660652396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f746268ab656b820800000000000000
+      internalID: 2933627566393018359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_96
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407acca8dd972fdf0800000000000000
+      internalID: -147921845326403836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee2500a064ba40d0800000000000000
+      internalID: -3437737038449398043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_98
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8035f0e895cc0f0b0800000000000000
+      internalID: -5696828843616152824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa5dd5e7f5cde320800000000000000
+      internalID: 2588943029311986349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_100
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e624ef7523f510680800000000000000
+      internalID: -8790640327821213074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_101
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d24aad5f8baf6b0800000000000000
+      internalID: -5261689848554312364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39f426e23d50e8e0800000000000000
+      internalID: -1666229388936152773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7afd54963580f4b0800000000000000
+      internalID: -5408676683008050562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac674bd786c37c2e0800000000000000
+      internalID: -2105647881289173302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c321801cc7768030800000000000000
+      internalID: 3496613879033701313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf80538174c0b90800000000000000
+      internalID: -7274361128815625242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a78fdddf5ac430c0800000000000000
+      internalID: -4596826806545315933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_108
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c436f262cf60e0800000000000000
+      internalID: -2274385556505574651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905c842b7e5347b0800000000000000
+      internalID: -5241241658341961582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788907d8ed18d2870800000000000000
+      internalID: 8659720451359021191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_111
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085fc3ab07e4eb30800000000000000
+      internalID: 4315828380106709004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_112
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583cd612d07436d0800000000000000
+      internalID: -3011658203175045036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_113
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd420d4a60e07e0800000000000000
+      internalID: -1797491896337769659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_114
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a47f4d9921955a0800000000000000
+      internalID: -6532169332611921341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_115
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b804cd49d1dfb9ab0800000000000000
+      internalID: -5000124657771462517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_116
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422fc5abc056a8520800000000000000
+      internalID: 2705085631530070564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dcef74875bb0810800000000000000
+      internalID: 1732678009862671635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2124c94c1168cd30800000000000000
+      internalID: 4451915005780304174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b1e36fa58480630800000000000000
+      internalID: 3893441433377315674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9bc9f5655eec900800000000000000
+      internalID: 706754350677801403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf0e46926af162d0800000000000000
+      internalID: -3287070951668314194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94639a569208bb0800000000000000
+      internalID: -4935899674990720521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff4af12422afe50800000000000000
+      internalID: 6843820251136982987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58ecbf9fa04ff040800000000000000
+      internalID: 4683533260532017245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5141c1f70f8e77d80800000000000000
+      internalID: -8252871672510802923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8811e2e534d5990800000000000000
+      internalID: -7395680941293598515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e00c75118674080800000000000000
+      internalID: -9203272889812382090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e25937c8ea45f0800000000000000
+      internalID: -771548443782749020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4cf86acc94f3320800000000000000
+      internalID: 2539829858176844983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda085b70b5dc7d0800000000000000
+      internalID: -2896558896661353007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_131
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486613ceb2f613b0800000000000000
+      internalID: -5541975390302083001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoilHandMade_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a37d5e9fbc8f30800000000000000
+      internalID: 4579245608022550477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
